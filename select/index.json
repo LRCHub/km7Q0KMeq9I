@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "TEENAGER",
+  "base_artist": "Split end",
+  "createdAt": "2026-02-21T12:55:16.558590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Teenager",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/01_Teenager_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Teenager Forever",
+      "artist": "King Gnu",
+      "has_synced": true,
+      "path": "select/02_Teenager_Forever_King_Gnu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "American Teenager",
+      "artist": "Ethel Cain",
+      "has_synced": true,
+      "path": "select/03_American_Teenager_Ethel_Cain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Teenager Rager",
+      "artist": "Ken Car$on",
+      "has_synced": true,
+      "path": "select/04_Teenager_Rager_Ken_Car$on.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Teenager",
+      "artist": "Better Than Ezra",
+      "has_synced": true,
+      "path": "select/05_Teenager_Better_Than_Ezra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Teenager vom Mars",
+      "artist": "Fettes Brot",
+      "has_synced": false,
+      "path": "select/06_Teenager_vom_Mars_Fettes_Brot.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Teenager",
+      "artist": "The Thrills",
+      "has_synced": true,
+      "path": "select/07_Teenager_The_Thrills.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Chronicles of a Bohemian Teenager, Pt. 1",
+      "artist": "Get Cape. Wear Cape. Fly",
+      "has_synced": false,
+      "path": "select/08_The_Chronicles_of_a_Bohemian_Teenager,_Pt._1_Get_Cape._Wear_Cape._Fly.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Teenager In Love",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/09_A_Teenager_In_Love_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Teenager in Love",
+      "artist": "The Pains of Being Pure At Heart",
+      "has_synced": false,
+      "path": "select/10_A_Teenager_in_Love_The_Pains_of_Being_Pure_At_Heart.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Teenager - Remastered",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/11_Teenager_-_Remastered_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Teenager (Idiot version)",
+      "artist": "Deftones",
+      "has_synced": true,
+      "path": "select/12_Teenager_(Idiot_version)_Deftones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Toy Teenager",
+      "artist": "Starcrawler",
+      "has_synced": false,
+      "path": "select/13_Toy_Teenager_Starcrawler.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Was a Teenage Teenager",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/14_I_Was_a_Teenage_Teenager_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirty Teenager",
+      "artist": "Kate Davis",
+      "has_synced": false,
+      "path": "select/15_Dirty_Teenager_Kate_Davis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Teenager",
+      "artist": "Barrie",
+      "has_synced": true,
+      "path": "select/16_Teenager_Barrie.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "A Teenager in Love (2012 Remaster)",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/17_A_Teenager_in_Love_(2012_Remaster)_Red_Hot_Chili_Peppers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEENAGER",
+      "artist": "Split end",
+      "has_synced": false,
+      "path": "select/pl_01_TEENAGER_Split_end.txt"
+    }
+  ]
+}
